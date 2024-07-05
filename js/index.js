@@ -1,7 +1,3 @@
-let iceCream = 12;
+const iceCream = undefined;
 
-console.log(iceCream);
-
-iceCream = 15;
-
-console.log(iceCream);
+console.log(typeof iceCream);
